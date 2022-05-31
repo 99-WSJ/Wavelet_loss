@@ -42,7 +42,9 @@ And by changing weight in every level, you get some different results.
 
 ### Reference
 pytorch_wavelets : https://github.com/fbcotter/pytorch_wavelets
+
 Wavelet_loss : Wavelet Loss Function for Auto-Encoder
+
                https://ieeexplore.ieee.org/document/9351990.
 
 ### LICENSE
