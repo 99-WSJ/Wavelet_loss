@@ -38,7 +38,7 @@ python test.py
 ![img_grid1_0](https://user-images.githubusercontent.com/44399667/171095429-1631a23b-24a2-4a51-8238-fe135ec8203d.jpg)
 
 
-And by changing weight in every level, you get some different results.
+## And by changing weight in every level, you get some different results.
 
 ![image](https://user-images.githubusercontent.com/44399667/171097447-9e59b551-aca2-486b-a8cd-65fbb32438a4.png)
 
