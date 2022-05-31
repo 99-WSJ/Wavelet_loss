@@ -3,11 +3,9 @@
 
 Implementation of Wavelet Loss Function for Auto-Encoder (https://ieeexplore.ieee.org/document/9351990) in PyTorch
 
-```
-{
+
          ![image](https://user-images.githubusercontent.com/44399667/171101790-b1933e6b-c49b-4890-b5f6-4ae5aa54902f.png)
-}
-```
+
 
 
 
