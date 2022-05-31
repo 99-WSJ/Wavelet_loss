@@ -31,11 +31,13 @@ python test.py
 
 
 And by change weight in every level, get some different results.
-![effect](https://user-images.githubusercontent.com/44399667/171094805-cd4f92ac-5e87-40b1-b080-b16e97477b41.jpeg)
+![image](https://user-images.githubusercontent.com/44399667/171097447-9e59b551-aca2-486b-a8cd-65fbb32438a4.png)
 
 ## Take a try for Autoencoder's training
 
-![image](https://user-images.githubusercontent.com/44399667/171097447-9e59b551-aca2-486b-a8cd-65fbb32438a4.png)
+
+![image](https://user-images.githubusercontent.com/44399667/171097864-1c19dffc-ffed-4f00-a62e-c926bc46c23a.png)
+
 
 ### Reference
 pytorch_wavelets: https://github.com/fbcotter/pytorch_wavelets
