@@ -13,7 +13,7 @@ This script requires:
 
 If you don't already have pytorch or torchvision please have a look at https://pytorch.org/ as the installation command may vary depending on your OS and your version of CUDA.
 
-You can install all other dependencies with pip by running terminal and get the result images by wavelet transform.Just like it.
+You can install all other dependencies with pip by running terminal and get the result images by wavelet transform.
 
 ### Just run 
 
@@ -22,7 +22,9 @@ python test.py
 ```
 ## wavelet transform at every level
 ![img_grid1_0](https://user-images.githubusercontent.com/44399667/171095429-1631a23b-24a2-4a51-8238-fe135ec8203d.jpg)
+
 ![img_grid1_1](https://user-images.githubusercontent.com/44399667/171095445-6b4b3c50-7891-4fbc-8fce-56a019f5d095.jpg)
+
 ![img_grid1_2](https://user-images.githubusercontent.com/44399667/171095470-7557c737-dd47-4a4c-bc74-300032db7ce6.jpg)
 
 And by change weight in every level, get some different results.
