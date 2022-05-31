@@ -41,7 +41,7 @@ And by change weight in every level, get some different results.
 
 
 ### Reference
-pytorch_wavelets: https://github.com/fbcotter/pytorch_wavelets
+pytorch_wavelets : https://github.com/fbcotter/pytorch_wavelets
 
 ### LICENSE
 This project is under MIT license.
