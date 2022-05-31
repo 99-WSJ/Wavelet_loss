@@ -33,9 +33,12 @@ class Wavelet_Net(nn.Module):
         x = x / 14
         return x
 
+    # Wavelet loss
+    # For more information please follow package pytorch_wavelets
     def forward(self, im, out):
-        xfm = DWTForward(J=3, wave='db1', mode='zero')
-        Yl_im, Yh_im = xfm(im)
+        # three-level wavelet transform
+        xfm = DWTForward(J=3, wave='db1', mode='zero')             
+        Yl_im, Yh_im = xfm(im)                                      
         Yl_de, Yh_de = xfm(out)
         smoothIm_0 = self.blur(torch.norm(Yh_im[0], dim=2))
         smoothDe_0 = self.blur(torch.norm(Yh_de[0], dim=2))
