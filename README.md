@@ -29,7 +29,7 @@ You can install all other dependencies with pip by running terminal and get the 
 python test.py 
 ```
 
-## wavelet transform at every level (eg. 128*128)
+## wavelet transform at every level (eg. 128*128).
 
 ![img_grid1_2](https://user-images.githubusercontent.com/44399667/171095470-7557c737-dd47-4a4c-bc74-300032db7ce6.jpg)
 
@@ -42,7 +42,7 @@ python test.py
 
 ![image](https://user-images.githubusercontent.com/44399667/171097447-9e59b551-aca2-486b-a8cd-65fbb32438a4.png)
 
-## Take a try for Autoencoder's training
+## Take a try for Autoencoder's training.
 
 
 ![image](https://user-images.githubusercontent.com/44399667/171097864-1c19dffc-ffed-4f00-a62e-c926bc46c23a.png)
