@@ -1,6 +1,16 @@
 # Wavelet_loss
 #### Wavelet_loss  Function
 
+Implementation of Wavelet Loss Function for Auto-Encoder (https://ieeexplore.ieee.org/document/9351990) in PyTorch
+
+```
+{
+         ![image](https://user-images.githubusercontent.com/44399667/171101790-b1933e6b-c49b-4890-b5f6-4ae5aa54902f.png)
+}
+```
+
+
+
 ## Requirements
 
 This script requires:
@@ -43,8 +53,7 @@ And by changing weight in every level, you get some different results.
 ### Reference
 pytorch_wavelets : https://github.com/fbcotter/pytorch_wavelets
 
-Wavelet_loss : Wavelet Loss Function for Auto-Encoder
-               https://ieeexplore.ieee.org/document/9351990.
+
 
 ### LICENSE
 This project is under MIT license.
