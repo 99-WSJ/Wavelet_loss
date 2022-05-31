@@ -31,6 +31,7 @@ python test.py
 
 
 And by change weight in every level, get some different results.
+
 ![image](https://user-images.githubusercontent.com/44399667/171097447-9e59b551-aca2-486b-a8cd-65fbb32438a4.png)
 
 ## Take a try for Autoencoder's training
